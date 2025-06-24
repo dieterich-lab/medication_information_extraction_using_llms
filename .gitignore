@@ -6,4 +6,4 @@
 **/unsloth_compiled_cache/
 
 # Ignore specific files
-output.csv
+medication_extraction/output.csv
