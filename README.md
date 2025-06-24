@@ -2,6 +2,11 @@
 
 This repository contains code for the manuscript: "Medication information extraction using local large language models" (https://doi.org/10.1101/2025.03.28.253248).
 
+# Citation
+If you use this code or the findings from our work, please cite 
+
+
+
 # Abstract
 **Objective:** Medication information is crucial for clinical routine and research. However, a vast amount is stored in unstructured text, such as doctor’s letters, requiring manual extraction -- a resource-intensive, error-prone task. Automating this process comes with significant constraints in a clinical setup, including the demand for clinical expertise, limited time-resources, restricted IT infrastructure, and the demand for transparent predictions. Recent advances in generative large language models (LLMs) and parameter-efficient fine-tuning methods show potential to address these challenges.
 
