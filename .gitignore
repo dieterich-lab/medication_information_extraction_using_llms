@@ -1,0 +1,9 @@
+# Ignore specific directories and their contents
+_unsloth_sentencepiece_temp/
+.ipynb_checkpoints/
+data/
+Meta-Llama-3-1-8b_refined_i2b2_pydantic/
+unsloth_compiled_cache/
+
+# Ignore specific files
+output.csv
