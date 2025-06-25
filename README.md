@@ -1,6 +1,6 @@
 # Medication information extraction using local large language models
 
-This repository contains code for the manuscript: "Medication information extraction using local large language models". The project uses fine-tuned local open-source large language models for extracting structured medication infromation from unstructured clinical texts in two language: EN and DE.
+This repository contains code for the manuscript: **"Medication information extraction using local large language models"**. The project uses fine-tuned local open-source large language models for extracting structured medication infromation from unstructured clinical texts in two language: EN and DE.
 
 # Citation
 If you use this code or the findings from our work, please cite 
