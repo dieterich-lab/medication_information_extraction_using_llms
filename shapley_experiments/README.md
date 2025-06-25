@@ -14,14 +14,14 @@ This folder contains experiments designed to investigate implicit knowledge of L
 
 
 
-1. **Create and activate a virtual environment on a Linux-compatible machine using Python 3.11.2**
+1. Create and activate a virtual environment on a Linux-compatible machine using Python 3.11.2
 ```bash
 python3.11 -m pip install virtualenv
 virtualenv venv --python=python3.11
 source venv/bin/activate      
 ```
 
-2. **Install required dependencies**
+2. Install required dependencies
 ```bash
 pip install -r requirements_shap.txt
 ```
