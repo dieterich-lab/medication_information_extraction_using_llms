@@ -1,10 +1,10 @@
-# MEdication information extraction
+# Medication information extraction
 
 This repository contains code for the main experiments for medication information extraction: data pre-processing, model fine-tuning, model inference and model evaluation.
 ## Contents
 
 - `brat2json.ipynb`  
-  Our custom data pre-processing tool. It converts n2c2 BRAT-formated data into our custom JSON format and saves tje resulting dataset as pickle files.
+  Our custom data pre-processing tool. It converts n2c2 BRAT-formated data into our custom JSON format and saves the resulting dataset as pickle files.
 
 - `train_llm.ipynb`  
   Fine-tuning a Llama 3.1 model on n2c2 2018 training split.
