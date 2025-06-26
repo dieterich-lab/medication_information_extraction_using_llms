@@ -18,7 +18,7 @@ If you use this code or the findings from our work, please cite
 
 ## Repository Structure
 
-- `medication_extraction/` – Core scripts for data preparation, model fine-tuning and evaluation.
+- `medication_extraction/` – Core scripts for data preparation, model fine-tuning, inference and evaluation (incl. confidence intervals).
 - `further_experiments/` – Additional experiments including investigating data leakage of Llama 3.1 and an experimental JSON2BRAT tool, to apply the official n2c2 2018 track 2 evaluation script on the results.
 - `shapley_experiments/` – Scripts to Investigate implicit knowledge of Llama using Shapley values for false negative predictions
 

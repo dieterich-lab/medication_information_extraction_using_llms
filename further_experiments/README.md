@@ -13,11 +13,13 @@ This repository contains code for further experiments described in the Appendix 
 - `evaluate_n2c22018.py`  
   The official n2c2 2018 track 2 evaluation script for task1 (NER) and task2 (RE) (manuscript Appendix D)
 
+- `feedback_LLM.py`  
+  The feedback LLM pipeline to investigate semantically correct false predictions (manuscript section 2.5, 3,5 and Appendix B)
+
 - `requirements_fe.txt`  
   List of dependencies required to run the above experiments.
 
 ## Setup
-
 
 
 1. Create and activate a virtual environment on a Linux-compatible machine using Python 3.11.2
