@@ -27,7 +27,8 @@ The project focuses on extracting structured medication information such as **me
 │   ├── feedback_LLM.ipynb
 │   ├── json2brat.ipynb
 │   ├── evaluate_n2c22018.py
-│   └── requirements_fe.txt
+│   ├── requirements_fe.txt
+│   └── oac_shift_analysis.ipynb
 ├── shapley_experiments/
 │   ├── investigate_implicit_knowledge_ade.ipynb
 │   └── requirements_shap.txt
@@ -51,6 +52,7 @@ Additional analyses reported in the paper appendix:
 - **`feedback_LLM.ipynb`**: investigates semantically correct false predictions using a feedback pipeline
 - **`json2brat.ipynb`**: converts project JSON back to BRAT-style output
 - **`evaluate_n2c22018.py`**: n2c2 evaluation script used for comparison
+- ""`oac_shift_analysis.ipynb`"": detecting anticoagulation shift in 2012 and 2021 medical text corpora
 
 ### `shapley_experiments/`
 Interpretability experiments:
